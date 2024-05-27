@@ -28,7 +28,7 @@
     ![CSharp](https://github.com/anlyetim/anlyetim/blob/main/Icons/CSharpIcon.png)  **:yellow_circle:**
   
 ## Languages:
-- **English: A2** 
+- **English: B2** 
 - **Turkish: Mother Tongue**
 
 
