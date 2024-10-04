@@ -28,8 +28,8 @@
     ![CSharp](https://github.com/anlyetim/anlyetim/blob/main/Icons/CSharpIcon.png)  **:yellow_circle:**
   
 ## Languages:
-- **English: B2** 
-- **Turkish: Mother Tongue**
+-  **English: B2** <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="British Flag" width="20" height="15">
+-  **Turkish: Mother Tongue** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türk Bayrağı" width="20" height="15">
 
 
 ## My Websites:
