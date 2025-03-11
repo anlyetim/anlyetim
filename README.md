@@ -1,11 +1,10 @@
 ## Hi !
 
 >[!NOTE]
->I'm Anıl. I am a simple young man who tries to develop his own applications, 
->Games and wants to do some cyber security work. 
->I am 19 years old and I have been interested in technology since I was very young.
->I have tampered with my computer many times in my time
->and now I want to make an effort to solve everyone's problems.
+>I'm Anıl. Just a tech-loving dude trying to develop my own apps and games, and also curious about cybersecurity.
+I'm 19 years old and have been into technology since I was a little kid.
+I've messed around with my computer a lot. Sometimes breaking it, sometimes fixing it.
+Now, I just want to do my best to help others with their tech problems.
 
 - **I am currently studying at**: Istanbul Gelisim University :books:
 - **I'm studying**: Information Security Technology :black_nib:
