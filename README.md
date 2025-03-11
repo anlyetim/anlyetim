@@ -15,11 +15,10 @@
   + Drawing a picture :paintbrush:
   + Camping :mount_fuji:
   + Taking Care of My Pet :cat:
+  + 
+##
+> <img src="https://github.com/anlyetim/anlyetim/blob/main/SkillsPNG.png" width="600" height="450" />
 
-
-- ## **My Skills**:
-   > ![Skills](https://github.com/anlyetim/anlyetim/blob/main/SkillsPNG.png)
-  
 ## Languages:
 -  **English: B2** <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="British Flag" width="20" height="15">
 -  **Turkish: Mother Tongue** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türk Bayrağı" width="20" height="15">
