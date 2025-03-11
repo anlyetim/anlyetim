@@ -17,15 +17,8 @@
   + Taking Care of My Pet :cat:
 
 
-- ## **My Skills**: :red_circle: 	:yellow_circle: :large_blue_circle: :green_circle:
-   > ![Photoshop](https://github.com/anlyetim/anlyetim/blob/main/Icons/PhotoshopIcon.png)  **:large_blue_circle:**
-    ![After Effects](https://github.com/anlyetim/anlyetim/blob/main/Icons/AfterEffectsIcon.png)  **:large_blue_circle:**
-    ![Premiere Pro](https://github.com/anlyetim/anlyetim/blob/main/Icons/PremiereProIcon.png)  **:green_circle:**
-    ![Blender](https://github.com/anlyetim/anlyetim/blob/main/Icons/BlenderIcon.png)  **:large_blue_circle:**
-    ![Final Cut Pro](https://github.com/anlyetim/anlyetim/blob/main/Icons/FinalCutIcon.png)  **:large_blue_circle:**
-    ![Java](https://github.com/anlyetim/anlyetim/blob/main/Icons/JavaIcon.png)  **:red_circle:**
-    ![Python](https://github.com/anlyetim/anlyetim/blob/main/Icons/PythonIcon.png)  **:yellow_circle:**
-    ![CSharp](https://github.com/anlyetim/anlyetim/blob/main/Icons/CSharpIcon.png)  **:yellow_circle:**
+- ## **My Skills**:
+   > ![Skills](https://github.com/anlyetim/anlyetim/blob/main/SkillsPNG.png)
   
 ## Languages:
 -  **English: B2** <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="British Flag" width="20" height="15">
