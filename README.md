@@ -19,7 +19,7 @@ Now, I just want to do my best to help others with their tech problems.
  <img src="https://github.com/anlyetim/anlyetim/blob/main/SkillsPNG.png" width="600" height="450" />
 
 ### Languages:
--  **English: B2** <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="British Flag" width="20" height="15">
+-  **English: B1** <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="British Flag" width="20" height="15">
 -  **Turkish: Mother Tongue** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türk Bayrağı" width="20" height="15">
 ### My Websites:
   - [ArtStation](https://anly05.artstation.com/) :globe_with_meridians:
