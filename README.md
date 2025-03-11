@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi !
 
 >[!TIP]
 >I'm Anil. I am a simple young man who tries to develop his own applications, 
