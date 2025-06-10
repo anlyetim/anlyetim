@@ -24,6 +24,13 @@ Now, I just want to do my best to help others with their tech problems.
 ### My Websites:
   - [ArtStation](https://anly05.artstation.com/) :globe_with_meridians:
   - [LinkedIn](https://www.linkedin.com/in/an%C4%B1l-yetim-374993239/) :globe_with_meridians:
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjcjmtm3gg4sov5x7maj5dbinu&cover_image=false&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=09ff00&bar_color_cover=false" alt="spotify-github-profile" />
+  </a>
+</p>
+
 ###
 >[!TIP]
 >And it hardly matters, but my cat's name is Pebble. Or Çakıl in Turkish. :cat: :smiling_face_with_three_hearts:
