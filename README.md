@@ -74,6 +74,14 @@ Now, I just want to do my best to help others with their tech problems.
 ###
 >[!TIP]
 >And it hardly matters, but my cat's name is Pebble. Or Çakıl in Turkish. :cat: :smiling_face_with_three_hearts:
+
+#
+
+<p>
+  <img src="https://github.com/anlyetim/anlyetim/raw/output/snake.svg" alt="Snake animation" />
+</p>
+
+
  
 
 
