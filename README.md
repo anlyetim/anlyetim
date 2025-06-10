@@ -2,7 +2,7 @@
 
 >[!NOTE]
 >I'm Anıl. Just a tech-loving guy trying to develop my own apps and games, and also curious about cybersecurity.
-I'm 19 years old and have been into technology since I was a little kid.
+I'm 20 years old and have been into technology since I was a little kid.
 I've messed around with my computer a lot. Sometimes breaking it, sometimes fixing it.
 Now, I just want to do my best to help others with their tech problems.
 
