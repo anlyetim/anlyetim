@@ -56,12 +56,14 @@ Now, I just want to do my best to help others with their tech problems.
 
 #
 
+<!-- SPOTİFY -->
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hjcjmtm3gg4sov5x7maj5dbinu&cover_image=false&theme=default&show_offline=false&background_color=151515&interchange=true&bar_color=09ff00&bar_color_cover=false" alt="spotify-github-profile" />
   </a>
 </p>
 
+<!-- STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anlyetim&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="anlyetim's Stats"/>
 </p>
@@ -77,9 +79,12 @@ Now, I just want to do my best to help others with their tech problems.
 
 #
 
+<!-- SNAKE -->
 <p>
   <img src="https://github.com/anlyetim/anlyetim/raw/output/snake.svg" alt="Snake animation" />
 </p>
+
+
 
 
  
