@@ -71,11 +71,19 @@ Now, I just want to do my best to help others with their tech problems.
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anlyetim&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="anlyetim's Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=anlyetim&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlyetim&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="anlyetim's Top Lang"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlyetim&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
+
 
 #
 
