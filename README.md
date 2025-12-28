@@ -22,17 +22,21 @@ Now, I just want to do my best to help others with their tech problems.
 
 <h3 align="center">🛠️ Core Competencies</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" title="After Effects" alt="After Effects" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=ps" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=ae" title="After Effects" alt="After Effects" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=pr" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
   <img src="https://images.icon-icons.com/3053/PNG/512/final_cut_pro_macos_bigsur_icon_190177.png" title="Final Cut Pro" alt="Final Cut Pro" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" title="Unity" alt="Unity" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=blender" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=unity" title="Unity" alt="Unity" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </p>
 
 #
