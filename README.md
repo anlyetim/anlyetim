@@ -2,7 +2,7 @@
 
 >[!NOTE]
 >I'm Anıl. Just a tech-loving guy trying to develop my own apps and games, and also curious about cybersecurity.
-I'm 20 years old and have been into technology since I was a little kid.
+I'm 21 years old and have been into technology since I was a little kid.
 I've messed around with my computer a lot. Sometimes breaking it, sometimes fixing it.
 Now, I just want to do my best to help others with their tech problems.
 
@@ -75,19 +75,13 @@ Now, I just want to do my best to help others with their tech problems.
 
 <!-- STATS -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anlyetim&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <a href="https://github-stats-extended.vercel.app/api?username=anlyetim&rank_icon=github&custom_title=GitHub%20Stats%20%3E&show_icons=true&include_all_commits=true&theme=github_dark">
+    <img src="https://github-stats-extended.vercel.app/api?username=anlyetim&rank_icon=github&custom_title=GitHub%20Stats%20%3E&show_icons=true&include_all_commits=true&theme=github_dark" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=anlyetim&layout=compact&langs_count=7&theme=github_dark">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anlyetim&layout=compact&langs_count=7&theme=github_dark" height="150" alt="Top Languages" />
+  </a>
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlyetim&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
 
 #
 
